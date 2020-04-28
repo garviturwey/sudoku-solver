@@ -1,0 +1,1 @@
+open cpp file then edit the array to solve your problem
